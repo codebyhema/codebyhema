@@ -18,7 +18,10 @@ When I'm not immersed in code, I enjoy exploring new technologies, reading tech 
 
 ## 💼 Projects
 
-- [🔗 Asset Manager – Full-Stack Asset Tracking App](https://assetmanager.infinityfreeapp.com/)  
+- [🔗 Asset Manager – Full-Stack Asset Tracking App](https://assetmanager.infinityfreeapp.com/)
+- 🧾 Demo Login:  
+Name: hema  
+Password: 12345678 
   A subscription-based platform built for high-net-worth individuals to manually track and manage their assets. Built with HTML, SCSS, JavaScript, PHP & MySQL.
 
 
