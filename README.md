@@ -1,40 +1,59 @@
-# 👋 Hey, I'm Hema Sutar!
-
-🎓 B.Sc. IT Graduate | 💻 Web Developer | 🚀 Aspiring Software Engineer  
+## 👋 Hi, I’m Hema Sutar
+🎓 B.Sc. IT Graduate | 💻 Frontend Developer (React & JavaScript)  
 📍 Mumbai, India
 
-
-
-
+---
 
 ## 🌱 About Me
 
-I'm a B.Sc. IT graduate with a passion for crafting clean, user-friendly web applications. I enjoy working across the full stack, turning ideas into functional products. One of my recent projects is [Asset Manager](https://github.com/codebyhema/Asset_Manager), a platform designed to help individuals manage their assets efficiently.
 
-When I'm not immersed in code, I enjoy exploring new technologies, reading tech blogs, or unwinding with a good book or movie. I believe in continuous learning and am always eager to take on new challenges that help me grow as a developer.
+Frontend Developer with experience building internal business tools during my **internship**, using **React, JavaScript, PHP, and MySQL**.  
+I have contributed to real-world applications used for day-to-day operations, focusing on clean UI flows and structured frontend logic.
 
-
-
-
-## 💼 Projects
-
-- [ Asset Manager – Full-Stack Asset Tracking App]
- 
-  A subscription-based platform built for high-net-worth individuals to manually track and manage their assets. Built with HTML, SCSS, JavaScript, PHP & MySQL.
+I believe in continuous learning and enjoy improving my skills by working on practical, real-world projects.
 
 
+---
 
+
+## 💼 Featured Projects
+
+### 🔹 GharWALA Quotation System  *(Internship Project)*
+Internal quotation management system used for real client operations during my internship.
+
+- **Frontend (React):**  
+  https://github.com/codebyhema/Quotation-react-frontend
+
+- **Backend (PHP + MySQL):**  
+  https://github.com/codebyhema/Quotation-backend
+
+---
+
+### 🔹 Asset Manager
+Subscription-based platform for high-net-worth individuals to manually track and manage their assets.
+
+https://github.com/codebyhema/Asset_Manager
+
+---
 
 ## 💻 Tech Stack
 
-- **Languages:** HTML, CSS, JavaScript, PHP  
-- **Database:** MySQL  
-- **Styling:** SCSS 
-- **Tools:** Git, GitHub, VS Code
+- React JS  
+- JavaScript (ES6+)  
+- HTML, CSS  
+- PHP, MySQL  
+- Git & GitHub  
 
+---
 
+## 🎯 Currently
 
-## 📫 Let's Connect
+- Strengthening React & frontend architecture  
+- Looking for frontend / full-stack opportunities  
+
+---
+
+## 📫 Let’s Connect
 
 - 📧 Email: [hemasutar2003@gmail.com](mailto:hemasutar2003@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/hema-sutar-42a570256/)  
