@@ -4,6 +4,12 @@
 
 ---
 
+## 🌐 Live Portfolio
+👉 **View my portfolio:**  
+🔗 https://codebyhema.github.io/Portfolio/
+
+---
+
 ## 🌱 About Me
 
 
