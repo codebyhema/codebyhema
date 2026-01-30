@@ -13,10 +13,10 @@
 ## 🌱 About Me
 
 
-Frontend Developer with experience building internal business tools during my **internship**, using **React, JavaScript, PHP, and MySQL**.  
-I have contributed to real-world applications used for day-to-day operations, focusing on clean UI flows and structured frontend logic.
+Frontend Developer with hands-on experience building real-world web applications using React, JavaScript, HTML, CSS, PHP, and MySQL.
+I’ve worked on projects focused on quotation management and asset tracking, emphasizing clean UI flows, reusable components, and structured frontend logic.
 
-I believe in continuous learning and enjoy improving my skills by working on practical, real-world projects.
+I enjoy learning by building practical applications and continuously improving my frontend skills through real-world problem solving.
 
 
 ---
@@ -24,8 +24,8 @@ I believe in continuous learning and enjoy improving my skills by working on pra
 
 ## 💼 Featured Projects
 
-### 🔹 GharWALA Quotation System  *(Internship Project)*
-Internal quotation management system used for real client operations during my internship.
+### 🔹 Quotation Web App
+quotation management web application built to create, manage, and export client quotations.
 
 - **Frontend (React):**  
   https://github.com/codebyhema/Quotation-react-frontend
